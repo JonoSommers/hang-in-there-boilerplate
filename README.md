@@ -36,6 +36,7 @@ ______________________________________________________
 
 ### Preview of App:
 [//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off. gifs preferred!)
+![project 1 gif](https://github.com/user-attachments/assets/de81fe8d-4f76-4cb8-9b1a-227e73011bb1)
 
 ### Context:
 [//]: <> (Give some context for the project here. How long did you have to work on it? How far into the Turing program are you?)
